@@ -30,6 +30,6 @@ Install dependencies
 Run the Script
 
 ```bash
-  python check.py <interval_in_seconds> "<ur>"
+  python check.py <interval_in_seconds> "<url>"
 ```
 
